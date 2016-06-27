@@ -12,12 +12,13 @@ colorscheme github
 Screenshots
 ---
 
-![Screenshot](http://)
+![Screenshot](https://raw.githubusercontent.com/yfiua/vim-github-colorscheme/master/screenshots/screenshot.png)
 
 Install it using Vundle.
 
 ```viml
-yfiua/vim-github-colorscheme
+" ~/.vimrc
+Plugin 'yfiua/vim-github-colorscheme'
 ```
 
 License
