@@ -12,11 +12,13 @@ colorscheme github
 Screenshots
 ---
 
-![Screenshot](http://i.imgur.com/LJXdy.png )
+![Screenshot](http://)
 
-![Diffsplit screenshot](http://i.imgur.com/RKtVD.png)
+Install it using Vundle.
 
-Install it using Pathogen or Vundle.
+```viml
+yfiua/vim-github-colorscheme
+```
 
 License
 ---
