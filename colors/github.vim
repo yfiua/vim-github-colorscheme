@@ -110,10 +110,10 @@ hi TabLineSel   ctermfg=238 guifg=#404040 gui=bold
 
 " {{{ Spelling
 if has("spell")
-    hi SpellBad   cterm=reverse ctermbg=black ctermfg=red  guisp=#fcaf3e
-    hi SpellCap   cterm=reverse ctermbg=black ctermfg=81   guisp=#73d216
-    hi SpellRare  cterm=reverse ctermbg=black ctermfg=81   guisp=#fcaf3e
-    hi SpellLocal cterm=reverse ctermbg=black ctermfg=red  guisp=#729fcf
+    hi SpellBad   cterm=reverse ctermfg=red  guisp=#fcaf3e
+    hi SpellCap   cterm=reverse ctermfg=81   guisp=#73d216
+    hi SpellRare  cterm=reverse ctermfg=81   guisp=#fcaf3e
+    hi SpellLocal cterm=reverse ctermfg=red  guisp=#729fcf
 endif
 " }}}
 
